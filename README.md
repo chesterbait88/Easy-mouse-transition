@@ -144,9 +144,7 @@ Contributions to improve the Mouse Monitor Position Tracker are welcome!
 - Document any new features or significant changes
 - Follow the existing code style
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
