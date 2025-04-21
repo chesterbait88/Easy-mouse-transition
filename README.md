@@ -1,4 +1,7 @@
-# Mouse Monitor Position Tracker
+## Easy-mouse-transition 1.0.0
+
+## Easy-mouse-transition
+
 
 A simple utility that helps seamlessly control cursor movement between multiple monitors, particularly useful for multi-monitor setups where the monitors have different resolutions or physical alignments.
 
