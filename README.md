@@ -1,4 +1,4 @@
-## Easy-mouse-transition 1.0.0
+## Easy-mouse-transition 1.0.1
 
 
 
