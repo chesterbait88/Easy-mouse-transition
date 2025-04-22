@@ -1,3 +1,6 @@
+# Easy-mouse-transition 1.0.1
+# A utility to help with cursor movement between multiple monitors
+
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
@@ -172,11 +175,11 @@ function Initialize-TrayIcon {
         # Method 1: Create icon directly from Base64
         if ($iconBase64FileFound) {
                         $iconBytes = [System.Convert]::FromBase64String($iconBase64)
-            
+
             $iconStream = New-Object System.IO.MemoryStream($iconBytes, 0, $iconBytes.Length)
-            
+
             $script:notifyIcon.Icon = New-Object System.Drawing.Icon($iconStream)
-            
+
         }
         else {
             throw "icon.base64 file not found"

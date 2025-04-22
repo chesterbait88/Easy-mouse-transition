@@ -1,4 +1,7 @@
 @echo off
+echo Easy-mouse-transition 1.0.1
+echo A utility to help with cursor movement between multiple monitors
+echo.
 setlocal enabledelayedexpansion
 title Easy Mouse Transition - Setup Tool
 color 0A
